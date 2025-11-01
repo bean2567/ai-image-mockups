@@ -1,0 +1,5 @@
+{
+  "name": "AI Image Studio",
+  "description": "An app to generate product mockups with your logo, create images from text, and edit photos using generative AI models.",
+  "requestFramePermissions": []
+}
